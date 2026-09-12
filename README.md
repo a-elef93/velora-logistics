@@ -11,6 +11,9 @@ A premium logistics landing page built with plain HTML, CSS and JavaScript. Its 
 - Reduced-motion support
 - No frameworks or JavaScript libraries
 
+##LIVE DEMO:https://a-elef93.github.io/velora-logistics/
+
+
 ## Project structure
 
 ```text
