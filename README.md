@@ -11,14 +11,6 @@ A premium logistics landing page built with plain HTML, CSS and JavaScript. Its 
 - Reduced-motion support
 - No frameworks or JavaScript libraries
 
-## Local preview
-
-```bash
-python3 -m http.server 4174
-```
-
-Then open `http://localhost:4174`.
-
 ## Project structure
 
 ```text
